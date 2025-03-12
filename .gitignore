@@ -19,3 +19,6 @@ npm-debug.log*
 # TypeScript 编译输出
 *.js
 *.map
+
+# Prisma
+/prisma/migrations/
